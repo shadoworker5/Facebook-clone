@@ -1,0 +1,19 @@
+{
+    // "git.ignoreLimitWarning": true
+    //exludes fies & folders in search indexing
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/env": true,
+        "**/venv": true
+    },
+    //exludes fies & folders for watcher service
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/env/**": true,
+        "**/venv/**": true,
+        "env-*": true
+    },
+}

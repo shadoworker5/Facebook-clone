@@ -1,0 +1,28 @@
+.image_size{
+    position: relative;
+    align-items: center;
+    border-radius: 100%;
+    border: .5em solid gray;
+    height: 250px;
+    width: 250px;
+}
+
+.post_container{
+    height: 745px;
+    overflow: hidden;
+}
+.post_container:hover{
+    overflow-y: auto;
+}
+
+.post_container_large_size{
+    height: 100px;
+    overflow: hidden;
+}
+.post_container_mdeium_size{
+    height: 100px;
+}
+
+.post_container_small_size{
+    height: 100px;
+}

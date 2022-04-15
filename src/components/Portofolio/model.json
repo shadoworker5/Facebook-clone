@@ -1,0 +1,32 @@
+{
+    "resume": {
+        "name": "Kassoum Traore",
+        "genre": "M",
+        "birthday": "17/04",
+        "grade": "Engeneer",
+        "job": "Freelance/Développeur",
+        "mail": "kassoumtraore755@gmail.com",
+        "born_location": "Bobo-Dioulasso (BF)",
+        "postal_code": 385,
+        "nationality": "Burkinabè",
+        "phone": "+22675621696"
+    },
+    "about": {
+        "describe": "Je suis un développeur d'applications de passion. J'ai suivi une formation en Génie Logiciel à l'Université Aube Nouvelle de Bobo-Dioulasso (Burkina Faso). A l'issu de cette formation, j'ai obtenu un diplôme d'ingénieur des travaux en informatique optique Génie Logiciel. Les sciences et les technologies sont mes centres d'interêt."
+    },
+    "knowledge" : {
+        "langage": ["python", "c++", "java", "php", "js"],
+        "backend": ["laravel"],
+        "frontend": ["reactjs", "angular"],
+        "mobile": ["pwa"],
+        "dataBase": ["sql", "mysql"],
+        "others": ["git", "devops", "odk"]
+    },
+    "asset": {
+        "work_group" : 90,
+        "flex_zone": 75,
+        "anglais": 30,
+        "franch": 80,
+        "dioula": 30
+    }
+}

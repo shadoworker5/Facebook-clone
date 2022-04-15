@@ -1,0 +1,27 @@
+.content_comment{
+    height: 485px;
+    overflow: hidden;
+}
+
+.content_comment:hover{
+    overflow-y: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.input_comment_per_post{
+    width: 980px;
+    height: 200px;
+    float: left;
+    border-radius: 10px;
+}
+
+.send_comment_btn{
+    float: right;
+    display: block;
+    position: relative;
+    right: 20px;
+    top: 72px;
+}

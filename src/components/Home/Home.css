@@ -1,0 +1,40 @@
+.auto_scroll{
+    overflow: hidden;
+    height: 750px;
+}
+
+.auto_scroll:hover{
+    overflow-y: auto;
+}
+
+.post_image{
+    width: max-content;
+    height: max-content;
+}
+
+.form_container{
+    width: 680px;
+    height: max-content;
+    position: relative;
+}
+
+.input_comment{
+    width: 580px;
+    height: 100px;
+    resize: none;
+    float: left;
+    border-radius: 10px;
+}
+
+.send_comment_btn{
+    float: right;
+    display: block;
+    position: relative;
+    right: 20px;
+    top: 72px;
+}
+
+.post_container_size{
+    height: 100px;
+    overflow: hidden;
+}

@@ -1,0 +1,25 @@
+{
+    "salutation" : "Salut. Je suis Jarvis et je suis un robot pour vous aider. Quel est votre nom ?",
+    "questions": [
+        "comment allez-vous?",
+        "comment tu vas?",
+        "comment vas-tu?",
+        "comment vas tu?",
+        "comment allez-vous",
+        "comment tu vas",
+        "tu vas bien",
+        "vous allez bien?"
+    ],
+    "response" : {
+        "comment allez-vous": "Je vais bien et vous même ?",
+        "comment tu vas": "Je vais bien et vous même ?",
+        "comment vas-tu": "Je vais bien et vous même ?",
+        "comment vas tu": "Je vais bien et vous même ?",
+        "contact": "Voici nos contacts: +22675621696, 73771015, fofdhy007@yahoo.fr",
+        "D'où vient tu?": "Je viens du Burkin Faso",
+        "Quel pays?": "Je viens du Burkin Faso",
+        "ask": {
+            "question" : ""
+        }
+    }
+}

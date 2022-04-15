@@ -1,0 +1,71 @@
+.story_scroll{
+    overflow: hidden;
+    width: 100px;
+    height: 500px;
+}
+
+.story_scroll:hover{
+    background-color: aqua;
+    overflow-x: auto;
+}
+
+.btn_create{
+    position: relative;
+    align-items: center;
+    z-index: 100000;
+}
+
+.avatar_icon_new {
+    position: relative;
+    float: left;
+    margin: 10px;
+}
+
+.avatar_icon_room {
+    position: relative;
+    margin: 10px;
+    float: right;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.input_new{
+    height: 35px;
+    width: 665px;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border: 1px solid #dcdcdc;
+    background-color: #dcdcdc;
+    font-size: 20px;
+}
+
+.input_new :focus{
+    border: 1px solid #dcdcdc;
+}
+
+.create_room{
+    position: relative;
+    float: left;
+    border: 1px solid #000;
+    margin: 10px;
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: steelblue;
+    cursor: pointer;
+}
+
+.create_live{
+    position: relative;
+    float: left;
+    border: 2px solid #000;
+    margin: 10px;
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 30px;
+}
